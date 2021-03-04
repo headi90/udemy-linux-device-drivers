@@ -97,6 +97,6 @@ dkms.conf
 # End of https://www.toptal.com/developers/gitignore/api/linux,c,c++
 
 
-workspace/ldd/source/rpi-linux
-workspace/.vscode
+workspace/ldd/source/rpi-linux/*
+workspace/.vscode/*
 
