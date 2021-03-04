@@ -98,5 +98,6 @@ dkms.conf
 
 
 workspace/ldd/source/rpi-linux/*
+workspace/ldd/downloads/*
 workspace/.vscode/*
 
