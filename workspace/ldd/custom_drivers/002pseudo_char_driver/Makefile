@@ -1,8 +1,8 @@
-obj-m := main.o
+obj-m := pcd.o
 
 ARCH=arm
 CROSS_COMPILE=arm-linux-gnueabihf-
-KERN_DIR=/media/source_disk/linux-udemy/workspce/ldd/source/rpi-linux/linux/
+KERN_DIR=/media/source_disk/linux-udemy/workspace/ldd/source/rpi-linux/linux/
 HOST_KERN_DIR=/lib/modules/$(shell uname -r)/build/
 
 all:
